@@ -1,0 +1,6 @@
+node_modules/
+.env
+*.zip
+*.log
+pm2.log
+
